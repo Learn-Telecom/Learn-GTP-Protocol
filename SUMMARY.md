@@ -9,5 +9,9 @@
 ## GTP
 
 * [Versions](gtp/versions.md)
-* [GTP-C (Control)](gtp/gtp-c-control.md)
-* [GTP-U (User)](gtp/gtp-u-user.md)
+* [🟢 GTP-C (Control)](gtp/gtp-c-control.md)
+* [🟢 GTP-U (User)](gtp/gtp-u-user.md)
+
+## Bearears
+
+* [Page 2](bearears/page-2.md)
