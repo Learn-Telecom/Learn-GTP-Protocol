@@ -7,3 +7,4 @@ description: >-
 
 # GPRS Tunnelling Protocol
 
+GTP Bearer

@@ -14,4 +14,5 @@
 
 ## Bearears
 
-* [Page 2](bearears/page-2.md)
+* [GTP Bearer](bearears/gtp-bearer.md)
+* [Bearer Contexts](bearears/bearer-contexts.md)
